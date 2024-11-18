@@ -6,8 +6,23 @@
   },
   "landing": {
     "title": "Typo3/Nextjs Starter Template",
-    "description": "tempor laborum reprehenderit aliqua sit magna aute reprehenderit exercitation ad reprehenderit laboris amet duis excepteur consectetur ipsum mollit aute et",
+    "description": "tempor laborum reprehenderit aliqua sit magna aute reprehenderit exercitation",
     "cta": "Get started",
-    "cta2": "Read more"
+    "cta2": "Read more",
+
+    "about": {
+      "title": "About us",
+      "description": "tempor pariatur ullamco ipsum magna officia sit ut proident ipsum et et dolore est culpa qui enim id eu do nostrud aliqua elit magna sit proident laborum nostrud laboris excepteur",
+      "users": "Users",
+      "subscribers": "Subscribers",
+      "downloads": "Downloads",
+      "products": "Products"
+    }
+  },
+  "footer": {
+    "follow": "Follow us",
+    "platforms": "Platforms",
+    "about": "About us",
+    "legal": "Legal"
   }
 }

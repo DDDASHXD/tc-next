@@ -21,7 +21,7 @@ const TypoNav = () => {
   const t = useTranslations();
 
   return (
-    <div className="sticky top-0 left-0 w-full p-3 border-b">
+    <div className="sticky top-0 left-0 w-full p-3 border-b bg-background/70 backdrop-blur-xl">
       <div className="flex justify-between items-center w-full max-w-screen-xl m-auto">
         <Link href="/" className="w-full flex justify-start items-center gap-2">
           <RocketIcon />
