@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome",
+  "login": "Log in",
+  "nav": {
+    "label": "tc-next"
+  },
+  "landing": {
+    "title": "Typo3/Nextjs Starter Template",
+    "description": "tempor laborum reprehenderit aliqua sit magna aute reprehenderit exercitation ad reprehenderit laboris amet duis excepteur consectetur ipsum mollit aute et",
+    "cta": "Get started",
+    "cta2": "Read more"
+  }
+}
